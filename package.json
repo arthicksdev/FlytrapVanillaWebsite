@@ -1,0 +1,22 @@
+{
+  "name": "flytrapnodetemplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Art Hicks <ahicks@viviscape.com>",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "angularjs": "0.0.1",
+    "bootstrap": "^4.3.1",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "momentjs": "^2.0.0",
+    "popper.js": "^1.15.0",
+    "request": "^2.88.0"
+  }
+}

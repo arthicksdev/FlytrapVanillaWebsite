@@ -1,0 +1,68 @@
+ 
+.jumbotron {
+    color: white;
+    background-image: url("/images/heros/river-real-estate.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25vh;
+    position: relative;
+}
+
+.jumbo-overlay {
+    background-color: rgba(0,0,0,.6);
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+}
+
+.jumbo-content {
+    z-index: 101;
+    position: relative;
+    margin-top: -20px;
+    text-align: center;
+}
+.jumbotron h1{
+    font-size:38pt;
+}
+.flex-fit {
+    flex: 1;
+}
+.flex-fit img{
+    width:100%;
+}
+
+hr.bold-line{
+    border-width:5px;
+}
+
+
+
+
+
+
+
+@media(min-width:0px) and (max-width:425px) {
+    
+
+    .jumbotron {
+        color: white;
+      
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 50vh;
+        position: relative;
+    }
+        .jumbotron h1 {
+            font-size: 28pt;
+        }
+}
+
+
+
+
+ 
