@@ -9,7 +9,7 @@
   "author": "Art Hicks <ahicks@viviscape.com>",
   "license": "ISC",
   "dependencies": {
-    "angular": "^1.7.8",
+    "angular": "^1.8.3",
     "angularjs": "0.0.1",
     "bootstrap": "^4.3.1",
     "dotenv": "^8.1.0",
